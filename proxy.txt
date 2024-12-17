@@ -1,0 +1,1 @@
+// format proxies is => socks://username:pass@ip:port (only support socks/socks5 for this freemium version)
