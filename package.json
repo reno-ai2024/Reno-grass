@@ -1,6 +1,6 @@
 {
-  "name": "getgrass-bot-Freemium",
-  "version": "0.4",
+  "name": "getgrass-bot-Freemium-beta",
+  "version": "0.4.1-Beta",
   "description": "https://github.com/cmalf/getgrass-bot-js",
   "main": "index.js",
   "scripts": {
